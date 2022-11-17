@@ -1,4 +1,4 @@
-								TP 1
+/Users/sebastiannati/Documents/MAIN/MAIN\ 3/S5/Outils\ Pour\ l\'Informatique/Phase\ 1/TP\ 1 								TP 1
 
 // Exercice 1:
 
@@ -6,5 +6,14 @@
 
 3) Le fichier créée est git.txt
 
+4) Le message nous fait comprendre qu'on a un fichier en plus dans notre répertoire TP 1 sur la branche master et qu'il n'est pas ajouté à git
+
+5) Le message nous dit qu'on a un nouveau fichier prêt à être validé et envoyer sur le repertoire git
+
+7) Il nous dit qu'on a rien a ajouter de plus et que la copie de travail est propre
+
+8) La commande nous affiche le dernier commit et un apercu de ce qui a été ajouté
+
+9)
 
   
