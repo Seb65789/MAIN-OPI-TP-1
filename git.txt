@@ -18,6 +18,6 @@
 
 11) Je vois mon fichier git.txt
 
-12) 
+12) Le fichier est bien arrivé
 
   
