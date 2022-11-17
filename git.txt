@@ -14,6 +14,10 @@
 
 8) La commande nous affiche le dernier commit et un apercu de ce qui a été ajouté
 
-9)
+9) Nous montre les différences entre les versions sur git et en local
+
+11) Je vois mon fichier git.txt
+
+12) 
 
   
