@@ -1,0 +1,10 @@
+								TP 1
+
+// Exercice 1:
+
+2) Aucun répertoire n'as été crée en local mais un répertoire sur github.com
+
+3) Le fichier créée est git.txt
+
+
+  
